@@ -18,4 +18,3 @@ npm run start
 ```
 npm run build
 ```
-# angular-mapbox
